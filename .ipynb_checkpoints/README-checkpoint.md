@@ -6,16 +6,16 @@
 ## Evaluation
 The error metric used is the `F1-score`, which ranges from 0 (total failure) to 1 (perfect score). Hence, the closer one scores is to 1, the better the model.
 
-1. F1 Score: A performance score that combines both precision and recall. It is a harmonic mean of these two variables. Formula is given as: 2*Precision*Recall/(Precision + Recall)
-2. Precision: This is an indicator of the number of items correctly identified as positive out of total items identified as positive. Formula is given as: TP/(TP+FP)
-3. Recall / Sensitivity / True Positive Rate (TPR): This is an indicator of the number of items correctly identified as positive out of total actual positives. Formula is given as: TP/(TP+FN)
+1. `F1 Score`: A performance score that combines both precision and recall. It is a harmonic mean of these two variables. Formula is given as: 2*Precision*Recall/(Precision + Recall)
+2. `Precision`: This is an indicator of the number of items correctly identified as positive out of total items identified as positive. Formula is given as: TP/(TP+FP)
+3. `Recall / Sensitivity / True Positive Rate (TPR)`: This is an indicator of the number of items correctly identified as positive out of total actual positives. Formula is given as: TP/(TP+FN)
 
 Where:
 
-* TP=True Positive
-* FP=False Positive
-* TN=True Negative
-* FN=False Negative
+* TP = True Positive
+* FP = False Positive
+* TN = True Negative
+* FN = False Negative
 
 ## Folders
 We have 3 folders in the projects
