@@ -1,4 +1,4 @@
-# ABOUT PROJECT
+# CVD
 
 ## Problem Statements
 `Cardiovascular disease (CVD)` is a leading cause of mortality globally, and early identification and management of risk factors can significantly reduce the burden of CVD. The UCI heart dataset has been widely used in recent studies to develop predictive models for CVD. However, the limited size of this dataset and the lack of diversity in its sources raise concerns about the generalizability of the models developed using it. Additionally, joining different datasets from various repositories led to the removal of a substantial amount of data due to duplicates. To address these issues, I propose the use of a new dataset that includes objective medical information, results of medical examinations, and subjective information given by patients. Our objective is to develop a predictive model that can accurately predict the risk of CVD, expressed as a percentage, using this new dataset.
