@@ -18,18 +18,18 @@ Where:
 * FN = False Negative
 
 ## Folders
-We have 3 folders in the projects
+I have 3 folders in the projects
 1. `Data`: Contains all the datasets used in the project.
 2. `Models`: Contains the final models that will be used in the web interface to make predictions on unseen data.
 3. `Notebooks`: Contains three sub-folders, each with a self-explanatory name.
 
 ## Tools and Technologies
-The project was implemented using Python and the following libraries:
+The project was implemented using `Python` and the following libraries:
 
-1. `Python`, `Pandas`, and `Numpy` for data manipulation and analysis.
+1.  `Pandas`, and `Numpy` for data manipulation and analysis.
 2. `Matplotlib` and `Seaborn` for data visualization.
 3. `Pycaret` to automate the ML-Flow and get the general overview of what model to use on the dataset.
 4. `Scikit-learn` libraries for training, and evaluating the machine learning model
 5. `XGBOOST` and `LightGBM` for training our dataset
 
-We hope that our project can contribute to the field of `CVD` risk prediction and encourage further research in this area.
+I hope that this project can contribute to the field of `CVD` risk prediction and encourage further research in this area.
